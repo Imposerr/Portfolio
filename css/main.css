@@ -237,9 +237,9 @@ Mobile
 .full > .info {
     background-color: black;
     color: white;
-    padding: 5%;
-    width: 90%;
-    margin-bottom: 10%;
+    padding: 2.5% 10%;
+    width: 80%;
+    margin-bottom: 1%;
 }
 
 .full > .info > h2 {
