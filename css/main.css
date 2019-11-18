@@ -78,12 +78,9 @@ Main Page / Landing
     /* border: 1px solid black; */
 }
 
-#Main > svg {
+.Frame {
     stroke: white;
     stroke-width: 0.25px;
-}
-
-.Frame {
     position: absolute;
     left: 50%;
     width: 30%;
@@ -121,6 +118,7 @@ Main Page / Landing
 }
 
 .infobox3 {
+    stroke: Black;
     top: 75%;
 }
 
