@@ -271,3 +271,6 @@ Media Queries
 .desktop {opacity: 0;
     position:fixed;}
   }
+body {
+    width: 100vw;
+}
